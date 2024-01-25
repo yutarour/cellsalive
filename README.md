@@ -10,6 +10,7 @@ Thank you to everyone over a long and fruitful association. I wish the best for 
   >For 30 years, the CELLS alive! website was provided free of charge. This version is provided free of charge as well. You are welcome to share it freely with others with the understanding it not be used for profit and that this notice remains in place.
   >
 - The author is very generous in giving us the entire source code for this incredible piece of history and detailed instructions on how to run it [document](READ_ME_FIRST.rtf). However, in the case that there may be people who do not know how to run it themselves, I provide this to you.
+- If you are interested in updating the information on here, please submit a pull request with the updated html/js. It will be reviewed and merged.
 - Finally: If you are the author and are looking at this and want it removed, please open a issue on this repository. It will be removed.
 
 
