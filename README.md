@@ -1,5 +1,6 @@
 # This is for educational purposes only and is distributed free and without charge according to the original author's wishes. 
 # The site can be accessed from: [HERE](https://yutarour.github.io/cellsalive)
+## If you are forking, especially when making it public, please keep this notice or at least provide some background context.
 
 ## Why I'm doing this:
 - Cells alive (which I and my bio teacher used for HS biology was discontinued after 30 years.) The author, Jim Sullivan, states on https://www.cellsalive.com/ : 
